@@ -24,7 +24,7 @@ requirements:
     - emptylog >=0.0.7
     - cantok >=0.0.23
     - escaping >=0.0.13
-    - locklib >=0.0.15
+    - locklib >=0.0.17
     - typing-extensions
 
 test:
